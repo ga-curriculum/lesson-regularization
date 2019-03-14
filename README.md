@@ -8,7 +8,7 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Lesson | Regularization Slides | [Link](./slides/)|
-| Lesson | Regularization Notebook | [Link](./regularization-starter-code.ipynb)|
+| Lesson | Regularization Notebook | [Link](./starter-code.ipynb)|
 
 > **Dataset description:** Wine Dataset
 
@@ -17,10 +17,11 @@
 ## Learning Objectives
 
 *After this lesson, students will be able to:*
-1. **Define** regularization and loss function.
-2. **Describe** and **differentiate** LASSO and Ridge regularization.
-3. **Understand** how regularization affects the bias-variance tradeoff.
-4. **Implement** LASSO regression, Ridge regression, and ElasticNet regression.
+1. Describe what a loss function is.
+2. Define regularization.
+3. Describe and differentiate LASSO and Ridge regularization.
+4. Understand how regularization affects the bias-variance tradeoff.
+5. Implement LASSO regression and Ridge regression.
 
 ---
 
@@ -28,7 +29,7 @@
 
 *Before this lesson(s), students should already be able to:*
 
-1. Define, interpret and calculate loss/error metrics MSE and $R^2$
+1. Define, interpret and calculate loss/error metrics MSE and R-squared.
 2. Construct and interpret regression models in `sklearn` and `statsmodels`.
 3. Summarize the bias-variance tradeoff.
 4. Identify causes of error due to bias and error due to variance.
