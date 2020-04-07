@@ -40,25 +40,17 @@
 
 > **Total Time: 120 mins**
 
-I. **What is regularization?
-
-    1. Calculation regularized values
-
-    2. How it affects the bias-variance tradeoff
-
-    3. Penalty terms on loss functions
-
-II. Implementation in Python
-
-    1. `sklearn` objects
-
-    2. Cross validating to find the best `alpha`s
-
-III. Details of Penalized Linear Models
-
-    1. Ridge vs. Lasso
-    2. Sparsity
-    3. Trace plots
+* What is regularization?
+    * Calculation regularized values
+    * How it affects the bias-variance tradeoff
+    * Penalty terms on loss functions
+* Implementation in Python
+    * `sklearn` objects
+    * Cross validating to find the best `alpha`s
+* Details of Penalized Linear Models
+    * Ridge vs. Lasso
+    * Sparsity
+    * Trace plots
 
 ---
 
